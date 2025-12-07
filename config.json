@@ -1,0 +1,23 @@
+{
+  "keybindings": {
+    "quit": "q",
+    "open": "enter",
+    "open_with": "w",
+    "plugin_torrent": "D",
+    "plugin_torrent_pause": "p",
+    "plugin_torrent_resume": "r",
+    "plugin_torrent_stop": "x",
+    "copy": "y",
+    "cut": "x",
+    "paste": "p",
+    "delete": "d",
+    "new_file": "n",
+    "new_folder": "m",
+    "rename": "r",
+    "extract": "e",
+    "compress": "s",
+    "toggle_panel": "t",
+    "toggle_right": " ",
+    "search": "/"
+  }
+}
